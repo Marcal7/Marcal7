@@ -1,8 +1,13 @@
-## Olá me chamo Vinícius Marçal
+## Olá me chamo Vinícius Marçal!
 
 - 🐱‍💻 Hoje estou trabalhando com back-end
 - 🐍 Estudando Python
 - 📫 E-mail: viniciusmarcal77@gmail.com
+
+- Atualmente estou desenvolvendo um projeto de faculdade para segmentação e análise de imagens microscópicas em Python
+
+<p>
+<p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
