@@ -4,8 +4,7 @@
 - 🐍 Estudando Python
 - 📫 E-mail: viniciusmarcal77@gmail.com
 
-- Atualmente estou desenvolvendo um projeto de faculdade para segmentação e análise de imagens microscópicas em Python
-
+- Atualmente estou focado em estudos de Análises de Dados, fazendo um curso da Google sobre está área.
 <p>
 <p>
 
