@@ -4,7 +4,7 @@
 - 🐍 Estudando Python
 - 📫 E-mail: viniciusmarcal77@gmail.com
 
-- Atualmente estou focado em estudos de Análises de Dados, fazendo um curso da Google sobre está área.
+- Atualmente estou focado em estudos de Análises de Dados, fazendo um curso da Google.
 <p>
 <p>
 
